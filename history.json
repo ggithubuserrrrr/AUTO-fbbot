@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "userid": "61555297617879",
+    "prefix": "",
+    "admin": [
+      "100057140344119"
+    ],
+    "blacklist": [],
+    "enableCommands": [
+      {
+        "commands": [
+          "adc",
+          "ai",
+          "anime",
+          "dictionary",
+          "help",
+          "music",
+          "unsent"
+        ]
+      },
+      {
+        "handleEvent": [
+          "antiout",
+          "resend"
+        ]
+      }
+    ]
+  }
+]
